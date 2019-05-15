@@ -1,0 +1,18 @@
+F:\文件\操作系统\课程作业\电梯调度\电梯调度\bin\Release\电梯调度.exe
+F:\文件\操作系统\课程作业\电梯调度\电梯调度\bin\Release\电梯调度.pdb
+F:\文件\操作系统\课程作业\电梯调度\电梯调度\obj\Release\电梯调度.Form1.resources
+F:\文件\操作系统\课程作业\电梯调度\电梯调度\obj\Release\电梯调度.Properties.Resources.resources
+F:\文件\操作系统\课程作业\电梯调度\电梯调度\obj\Release\电梯调度.csproj.GenerateResource.cache
+F:\文件\操作系统\课程作业\电梯调度\电梯调度\obj\Release\电梯调度.csproj.CoreCompileInputs.cache
+F:\文件\操作系统\课程作业\电梯调度\电梯调度\obj\Release\电梯调度.exe
+F:\文件\操作系统\课程作业\电梯调度\电梯调度\obj\Release\电梯调度.pdb
+F:\文件\操作系统\课程作业\电梯调度\电梯调度\obj\Release\电梯调度.csprojAssemblyReference.cache
+F:\Files\Operation System\课程作业\电梯调度\电梯调度\bin\Release\电梯调度.exe
+F:\Files\Operation System\课程作业\电梯调度\电梯调度\bin\Release\电梯调度.pdb
+F:\Files\Operation System\课程作业\电梯调度\电梯调度\obj\Release\电梯调度.csprojAssemblyReference.cache
+F:\Files\Operation System\课程作业\电梯调度\电梯调度\obj\Release\电梯调度.Form1.resources
+F:\Files\Operation System\课程作业\电梯调度\电梯调度\obj\Release\电梯调度.Properties.Resources.resources
+F:\Files\Operation System\课程作业\电梯调度\电梯调度\obj\Release\电梯调度.csproj.GenerateResource.cache
+F:\Files\Operation System\课程作业\电梯调度\电梯调度\obj\Release\电梯调度.csproj.CoreCompileInputs.cache
+F:\Files\Operation System\课程作业\电梯调度\电梯调度\obj\Release\电梯调度.exe
+F:\Files\Operation System\课程作业\电梯调度\电梯调度\obj\Release\电梯调度.pdb
